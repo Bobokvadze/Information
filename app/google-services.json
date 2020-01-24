@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "912059880684",
+    "firebase_url": "https://information-24669.firebaseio.com",
+    "project_id": "information-24669",
+    "storage_bucket": "information-24669.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912059880684:android:26cc1694de25ad2ffd41c9",
+        "android_client_info": {
+          "package_name": "com.btu.information"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912059880684-0am9nis0jcflbs1k31am3dp13v5qk73v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.btu.information",
+            "certificate_hash": "5e50b96f65dfda9e792d8ee7fa110d73a1f38cc8"
+          }
+        },
+        {
+          "client_id": "912059880684-pk36nkok0q6oskvhskpgh6iu294hljui.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.btu.information",
+            "certificate_hash": "c68495f01fafdb5bb4b4ccb8f25eeb7d65da5018"
+          }
+        },
+        {
+          "client_id": "912059880684-kvih8pt8gq2f3hv9e1sis2k6av1hlj3a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY5MKdU8B5C3q3HCL50y3uXCkeB4f-DZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912059880684-kvih8pt8gq2f3hv9e1sis2k6av1hlj3a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
